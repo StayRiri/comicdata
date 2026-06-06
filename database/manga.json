@@ -1,0 +1,44 @@
+{
+    "manga_id": "a-dragonslayers-peerless-regression",
+    "title": "A Dragonslayer’s Peerless Regression",
+    "alternative_title": "The Dragonslayer's Unrivaled Regression / 용살자의 역대급 회귀",
+    "status": "Ongoing",
+    "author": "Blue Jaeng-i",
+    "artist": "Studio Redice",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shounen",
+        "Regressor"
+    ],
+    "type": "Manhwa",
+    "release_year": 2023,
+    "rating": 4.7,
+    "synopsis": "Slayer terkuat umat manusia, Siegfried, mendapati dirinya kembali ke masa lalu sebelum dunia hancur oleh kehancuran naga. Dengan ingatan masa depan dan tekad baja, ia memulai kembali perjalanannya untuk menjadi Dragonslayer tanpa tanding dan mengubah takdir tragis yang menanti dunia.",
+    "cover_url": "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
+    "chapters": [
+        {
+            "chapter_number": 1,
+            "chapter_title": "Prologue: Kehancuran dan Kesempatan Kedua",
+            "images": [
+                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/001.jpg",
+                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/002.jpg",
+                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/003.jpg",
+                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/004.jpg",
+                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/005.jpg"
+            ]
+        },
+        {
+            "chapter_number": 2,
+            "chapter_title": "Bab 2: Kebangkitan Sang Dragonslayer",
+            "images": [
+                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/001.jpg",
+                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/002.jpg",
+                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/003.jpg",
+                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/004.jpg",
+                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/005.jpg"
+            ]
+        }
+    ]
+}
