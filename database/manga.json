@@ -84,5 +84,26 @@
     "category": "Romance",
     "download_url": "https://raw.githubusercontent.com/StayRiri/comicdata/main/Romance/Echoes%20of%20the%20Reverse%20Planet.cbz",
     "cover_url": ""
+  },
+  {
+    "manga_id": "Genius Prismatic Mage",
+    "title": "Genius Prismatic Mage",
+    "category": "Slice Of Life",
+    "download_url": "https://raw.githubusercontent.com/StayRiri/comicdata/main/Slice%20Of%20Life/Genius%20Prismatic%20Mage.cbz",
+    "cover_url": ""
+  },
+  {
+    "manga_id": "I Am the Fated Villain",
+    "title": "I Am the Fated Villain",
+    "category": "Slice Of Life",
+    "download_url": "https://raw.githubusercontent.com/StayRiri/comicdata/main/Slice%20Of%20Life/I%20Am%20the%20Fated%20Villain.cbz",
+    "cover_url": ""
+  },
+  {
+    "manga_id": "I Killed an Academy Player",
+    "title": "I Killed an Academy Player",
+    "category": "Slice Of Life",
+    "download_url": "https://raw.githubusercontent.com/StayRiri/comicdata/main/Slice%20Of%20Life/I%20Killed%20an%20Academy%20Player.cbz",
+    "cover_url": ""
   }
 ]
