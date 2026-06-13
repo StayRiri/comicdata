@@ -1,4 +1,5 @@
-{
+[
+  {
     "manga_id": "a-dragonslayers-peerless-regression",
     "title": "A Dragonslayer’s Peerless Regression",
     "alternative_title": "The Dragonslayer's Unrivaled Regression / 용살자의 역대급 회귀",
@@ -6,11 +7,11 @@
     "author": "Blue Jaeng-i",
     "artist": "Studio Redice",
     "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Shounen",
-        "Regressor"
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Shounen",
+      "Regressor"
     ],
     "type": "Manhwa",
     "release_year": 2023,
@@ -18,27 +19,70 @@
     "synopsis": "Slayer terkuat umat manusia, Siegfried, mendapati dirinya kembali ke masa lalu sebelum dunia hancur oleh kehancuran naga. Dengan ingatan masa depan dan tekad baja, ia memulai kembali perjalanannya untuk menjadi Dragonslayer tanpa tanding dan mengubah takdir tragis yang menanti dunia.",
     "cover_url": "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
     "chapters": [
-        {
-            "chapter_number": 1,
-            "chapter_title": "Prologue: Kehancuran dan Kesempatan Kedua",
-            "images": [
-                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/001.jpg",
-                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/002.jpg",
-                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/003.jpg",
-                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/004.jpg",
-                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/005.jpg"
-            ]
-        },
-        {
-            "chapter_number": 2,
-            "chapter_title": "Bab 2: Kebangkitan Sang Dragonslayer",
-            "images": [
-                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/001.jpg",
-                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/002.jpg",
-                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/003.jpg",
-                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/004.jpg",
-                "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/005.jpg"
-            ]
-        }
+      {
+        "chapter_number": 1,
+        "chapter_title": "Prologue: Kehancuran dan Kesempatan Kedua",
+        "images": [
+          "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/001.jpg",
+          "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/002.jpg",
+          "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/003.jpg",
+          "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/004.jpg",
+          "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/005.jpg"
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Bab 2: Kebangkitan Sang Dragonslayer",
+        "images": [
+          "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/001.jpg",
+          "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/002.jpg",
+          "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/003.jpg",
+          "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/004.jpg",
+          "https://raw.githubusercontent.com/riri-comic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/005.jpg"
+        ]
+      }
     ]
-}
+  },
+  {
+    "manga_id": "A Cadet Becomes a Prophet",
+    "title": "A Cadet Becomes a Prophet",
+    "category": "Action",
+    "download_url": "https://raw.githubusercontent.com/StayRiri/comicdata/main/Action/A%20Cadet%20Becomes%20a%20Prophet.cbz",
+    "cover_url": ""
+  },
+  {
+    "manga_id": "Academy_s Genius Swordmaster",
+    "title": "Academy s Genius Swordmaster",
+    "category": "Action",
+    "download_url": "https://raw.githubusercontent.com/StayRiri/comicdata/main/Action/Academy_s%20Genius%20Swordmaster.cbz",
+    "cover_url": ""
+  },
+  {
+    "manga_id": "Children of the Rune",
+    "title": "Children of the Rune",
+    "category": "Action",
+    "download_url": "https://raw.githubusercontent.com/StayRiri/comicdata/main/Action/Children%20of%20the%20Rune.cbz",
+    "cover_url": ""
+  },
+  {
+    "manga_id": "Chronicles Of The Martial God_s Return",
+    "title": "Chronicles Of The Martial God s Return",
+    "category": "Romance",
+    "download_url": "https://raw.githubusercontent.com/StayRiri/comicdata/main/Romance/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz",
+    "cover_url": ""
+  },
+  {
+    "manga_id": "Crimson Reset",
+    "title": "Crimson Reset",
+    "category": "Romance",
+    "download_url": "https://raw.githubusercontent.com/StayRiri/comicdata/main/Romance/Crimson%20Reset.cbz",
+    "cover_url": ""
+  },
+  {
+    "manga_id": "Echoes of the Reverse Planet",
+    "title": "Echoes of the Reverse Planet",
+    "category": "Romance",
+    "download_url": "https://raw.githubusercontent.com/StayRiri/comicdata/main/Romance/Echoes%20of%20the%20Reverse%20Planet.cbz",
+    "cover_url": ""
+  }
+]
